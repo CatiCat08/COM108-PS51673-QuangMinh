@@ -1,0 +1,1 @@
+[Video_LabX.md](https://youtu.be/fOBqlFeTRjw?si=Ki3EU5D-FiifpZgu) Bai 1
