@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/code/COM108-PS51673-QuangMinh/lab1",
-      "program": "c:/code/COM108-PS51673-QuangMinh/lab1/build/Debug/outDebug",
+      "cwd": "c:/code/COM108-PS51673-QuangMinh/lab2",
+      "program": "c:/code/COM108-PS51673-QuangMinh/lab2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
