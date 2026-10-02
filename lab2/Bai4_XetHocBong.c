@@ -7,7 +7,7 @@ int main () {
     scanf("%f", &diemTB);
     printf("Nhap hanh kiem (1: Tot, 0: Khac): ");
     scanf("%d", &HanhKiem);
-    // kiem trai dieu kien hoc bong
+    // kiem tra dieu kien hoc bong
     int DieuKienDiem = diemTB >= 8;
     int DieuKienHanhKiem = HanhKiem == 1;
     // xet hoc bong bang toan tu logic &&
