@@ -10,7 +10,10 @@ void chucnang8() {}
 void chucnang9() {}
 void chucnang10() {}
 
-int main() {
+long chon lai tu 0 den 10.\n");
+                break;
+        }
+    } while (luaChon != 0);int main() {
     int luaChon = 0;
 
     do {
@@ -65,10 +68,7 @@ int main() {
                 printf("Cam on ban da su dung chuong trinh\n");
                 break;
             default:
-                printf("Lua chon khong hop le! Vui long chon lai tu 0 den 10.\n");
-                break;
-        }
-    } while (luaChon != 0);
+                printf("Lua chon khong hop le! Vui 
 
     return 0;
 }
